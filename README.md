@@ -11,13 +11,13 @@
 ### GitHub 저장소
 
 ```text
-https://github.com/kimyoon1259-ship-it/dvds_main
+https://github.com/kimyoon1259-ship-it/dvds/
 ```
 
 ### 공개 웹사이트 주소
 
 ```text
-https://kimyoon1259-ship-it.github.io/dvds_main/
+https://kimyoon1259-ship-it.github.io/dvds/
 ```
 
 ### 현재 등록된 회차
